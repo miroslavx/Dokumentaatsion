@@ -21,10 +21,3 @@ Kõik rühma liikmed peaksid tegema järgmised sammud:
 7. Loo uus haru (branch), tee muudatused ning hiljem ühenda need põhirühma tagasi (`merge`).  
 
 ---
-
-## Kasulikud käsud  
-
-```bash
-git add .
-git commit -a -m "selgitav commit-sõnum"
-git push
