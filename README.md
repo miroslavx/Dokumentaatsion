@@ -1,5 +1,5 @@
 # Tarkvaraprojekti Giti Ülesanne  
-![image](https://github.com/user-attachments/assets/b107e019-c97c-4016-a3b3-c3148a26f8a2)
+![image](https://github.com/user-attachments/assets/77bd6f79-bed6-4835-8fbd-4b0d8455ab5d)
 
 
 ## Üldine teave  
@@ -12,12 +12,18 @@ Lisaks leiate siit tegevuste loetelu, mida kõik rühma liikmed peavad täitma, 
 ## Rühma ülesanded  
 Kõik rühma liikmed peaksid tegema järgmised sammud:  
 
-1. Salvesta muudatused failides Gitisse (`git add`).  
-2. Koosta selge ja arusaadav commit-sõnum (`git commit`).  
-3. Lükka muudatused GitHubi üles (`git push`).  
-4. Kontrolli, et kõik lingid README.md failis töötavad korrektselt.  
-5. Lisa projekti täienduseks vähemalt üks visuaalne element (diagramm või pilt, kasutades Markdown'i süntaksit `![image]`).  
-6. Täienda projekti kirjeldust selgitusega, miks projekt on oluline.  
-7. Loo uus haru (branch), tee muudatused ning hiljem ühenda need põhirühma tagasi (`merge`).  
+1. **Kooperi failid on sinu Git CMD**
+2. **Vasta küsimused**
+3. **Salvesta muudatused failides Gitisse** (`git add`).  
+4. **Koosta selge ja arusaadav commit-sõnum** (`git commit`).  
+5. **Lükka muudatused GitHubi üles** (`git push`).  
 
 ---
+
+## Kasulikud käsud  
+Kui oled valmis alustama, siis kasuta järgmisi käske:
+
+```bash
+git add .
+git commit -a -m "selgitav commit-sõnum"
+git push
